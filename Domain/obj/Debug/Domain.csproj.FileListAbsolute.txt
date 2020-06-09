@@ -1,0 +1,9 @@
+C:\Users\e_aam\source\repos\ChatBot\Domain\bin\Debug\Domain.dll
+C:\Users\e_aam\source\repos\ChatBot\Domain\bin\Debug\Domain.pdb
+C:\Users\e_aam\source\repos\ChatBot\Domain\bin\Debug\DataAccess.dll
+C:\Users\e_aam\source\repos\ChatBot\Domain\bin\Debug\DataAccess.pdb
+C:\Users\e_aam\source\repos\ChatBot\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\e_aam\source\repos\ChatBot\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\e_aam\source\repos\ChatBot\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\e_aam\source\repos\ChatBot\Domain\obj\Debug\Domain.dll
+C:\Users\e_aam\source\repos\ChatBot\Domain\obj\Debug\Domain.pdb

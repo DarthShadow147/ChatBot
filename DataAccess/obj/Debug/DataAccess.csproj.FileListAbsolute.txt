@@ -1,0 +1,6 @@
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\e_aam\source\repos\ChatBot\DataAccess\obj\Debug\DataAccess.pdb
